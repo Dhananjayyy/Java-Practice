@@ -1,0 +1,10 @@
+Alice,CS101,85
+Bob,MA201,67
+Charlie,EE301,92
+Dave,PH101,78
+Eve,EC201,89
+Frank,ME301,73
+Grace,CS201,96
+Henry,ME201,96
+Isabel,MA101,80
+Jack,EC301,91
