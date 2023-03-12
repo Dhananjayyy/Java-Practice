@@ -1,5 +1,6 @@
 // Dhananjay Yelwande
-// Mar 12, 23
+// Mar 12, 2023
+// Usage java ReadFile.java marks.txt
 
 import java.io.BufferedReader;
 import java.io.File;
